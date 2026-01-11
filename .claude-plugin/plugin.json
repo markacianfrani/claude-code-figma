@@ -1,0 +1,8 @@
+{
+  "name": "figma-friend",
+  "description": "Create and manipulate Figma files",
+  "version": "0.0.1",
+  "author": {
+    "name": "Mark Anthony Cianfrani"
+  }
+}

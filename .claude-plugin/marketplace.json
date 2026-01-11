@@ -1,0 +1,15 @@
+{
+  "name": "figma-friend-marketplace",
+  "owner": {
+    "name": "Mark Anthony Cianfrani"
+  },
+  "metadata": {
+    "description": "Marketplace for the Figma Friend plugin"
+  },
+  "plugins": [
+    {
+      "name": "figma-friend",
+      "source": "./"
+    }
+  ]
+}
