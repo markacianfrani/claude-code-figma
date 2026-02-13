@@ -1,5 +1,5 @@
 ---
-name: figma-friend
+name: figma-designer
 description: Interact with Figma to assist with design tasks.
 allowed-tools: Read, Grep, Glob, navigate_page, evaluate_script
 ---
